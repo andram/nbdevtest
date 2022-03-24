@@ -1,24 +1,31 @@
 # Cool project
-> Summary description here.
+> my cool project
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbdevtest`
 
 ## How to use
 
 Fill me in please! Don't forget code examples:
 
 ```python
-1+1
+1+4
 ```
 
 
 
 
-    2
+    5
 
+
+
+```python
+say_hi("FG")
+```
+
+    Hi FG!
 
